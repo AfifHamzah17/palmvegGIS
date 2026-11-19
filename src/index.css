@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --safe-b: env(safe-area-inset-bottom, 0px); }
+html, body, #root { height: 100%; }
+body { @apply bg-paper text-ink font-sans antialiased; font-variant-numeric: tabular-nums; }
+h1, h2, h3 { text-wrap: balance; }
+p { text-wrap: pretty; }
+:focus-visible { outline: 2px solid #0E6B66; outline-offset: 2px; }
+.btn { @apply inline-flex items-center justify-center gap-2 rounded-lg px-3.5 py-2 text-sm font-medium transition active:scale-[0.98]; }
+.btn-primary { @apply bg-accent text-white hover:bg-[#0b5a56]; }
+.btn-ghost { @apply border border-line bg-card text-ink hover:bg-white; }
+.field { @apply w-full rounded-lg border border-line bg-white px-3 py-2 text-sm placeholder:text-mute/70 focus:border-accent; }
+.skel { background: linear-gradient(90deg, #E6EBE3 25%, #F1F4EE 50%, #E6EBE3 75%); background-size: 200% 100%; animation: shimmer 1.4s infinite linear; border-radius: 8px; }
+@keyframes shimmer { to { background-position: -200% 0; } }
+@keyframes marquee { to { transform: translateX(-50%); } }
+.marquee-track { animation: marquee 38s linear infinite; }
+.marquee:hover .marquee-track { animation-play-state: paused; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.leaflet-container { font-family: inherit; background: #1d2a24; }
+@media (prefers-reduced-motion: reduce) {
+  .marquee-track, .skel { animation: none; }
+  * { scroll-behavior: auto !important; transition-duration: .01ms !important; }
+}
+
+.blok-label.leaflet-tooltip { background: transparent; border: 0; box-shadow: none; padding: 0; font-weight: 700; font-style: italic; font-size: 12px; color: #fff; text-shadow: 0 0 3px #0b1a14, 0 0 3px #0b1a14, 0 1px 2px #0b1a14; pointer-events: none; }
+.blok-label.leaflet-tooltip::before { display: none; }

@@ -1,0 +1,490 @@
+{
+ "regional": [
+  {
+   "kode": "RPC1",
+   "nama": "Regional 1",
+   "distrik": [
+    {
+     "kode": "1GLB",
+     "nama": "1GLB",
+     "kebun": [
+      {
+       "kode": "1KAN",
+       "nama": "Aek Nabara Utara",
+       "alias": [
+        "1E10",
+        "1KAN",
+        "Aek Nabara Utara",
+        "KEBUN AEK NABARA UTARA"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05"
+       ]
+      },
+      {
+       "kode": "1KAS",
+       "nama": "Aek Nabara Selatan",
+       "alias": [
+        "1E11",
+        "1KAS",
+        "Aek Nabara Selatan",
+        "KEBUN AEK NABARA SELATAN"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05"
+       ]
+      },
+      {
+       "kode": "1KLJ",
+       "nama": "Labuhan Haji",
+       "alias": [
+        "1E14",
+        "1KLJ",
+        "KEBUN LABUHAN HAJI",
+        "Labuhan Haji"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05"
+       ]
+      },
+      {
+       "kode": "1KMM",
+       "nama": "Membang Muda",
+       "alias": [
+        "1E13",
+        "1KMM",
+        "KEBUN MEMBANG MUDA",
+        "Membang Muda"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05"
+       ]
+      },
+      {
+       "kode": "1KMS",
+       "nama": "Merbau Selatan",
+       "alias": [
+        "1E15",
+        "1KMS",
+        "KEBUN MERBAU SELATAN",
+        "Merbau Selatan"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05",
+        "AFD06"
+       ]
+      },
+      {
+       "kode": "1KRP",
+       "nama": "Rantau Prapat",
+       "alias": [
+        "1E12",
+        "1KRP",
+        "KEBUN RANTAU PRAPAT",
+        "Rantau Prapat"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05",
+        "AFD06"
+       ]
+      }
+     ]
+    },
+    {
+     "kode": "1GLS",
+     "nama": "Grup Labuhan Batu Selatan",
+     "kebun": [
+      {
+       "kode": "1KSD",
+       "nama": "Sei Daun",
+       "alias": [
+        "1E02",
+        "1KSD",
+        "KEBUN SEI DAUN",
+        "Sei Daun"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05"
+       ]
+      },
+      {
+       "kode": "1KSK",
+       "nama": "Sei Kebara",
+       "alias": [
+        "1E06",
+        "1KSK",
+        "KEBUN SEI KEBARA",
+        "Sei Kebara"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05",
+        "AFD06",
+        "AFD07",
+        "AFD08"
+       ]
+      }
+     ]
+    },
+    {
+     "kode": "1GS1",
+     "nama": "1GS1",
+     "kebun": [
+      {
+       "kode": "1KBB",
+       "nama": "Bandar Betsy",
+       "alias": [
+        "1E23",
+        "1KBB",
+        "Bandar Betsy",
+        "KEBUN BANDAR BETSY"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05",
+        "AFD06",
+        "AFD07",
+        "AFD08"
+       ]
+      },
+      {
+       "kode": "1KBN",
+       "nama": "Bangun",
+       "alias": [
+        "1E24",
+        "1KBN",
+        "Bangun",
+        "KEBUN BANGUN"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04"
+       ]
+      },
+      {
+       "kode": "1KDH",
+       "nama": "Dusun Hulu",
+       "alias": [
+        "1E22",
+        "1KDH",
+        "Dusun Hulu",
+        "KEBUN DUSUN HULU"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05",
+        "AFD06",
+        "AFD07"
+       ]
+      },
+      {
+       "kode": "1KGM",
+       "nama": "Gunung Monako",
+       "alias": [
+        "1E26",
+        "1KGM",
+        "Gunung Monako",
+        "KEBUN GUNUNG MONACO"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04"
+       ]
+      },
+      {
+       "kode": "1KGP",
+       "nama": "Gunung Pamela",
+       "alias": [
+        "1E25",
+        "1KGP",
+        "Gunung Pamela",
+        "KEBUN GUNUNG PAMELA"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05",
+        "AFD06",
+        "AFD07"
+       ]
+      },
+      {
+       "kode": "1KGR",
+       "nama": "Gunung Para",
+       "alias": [
+        "1E28",
+        "1KGR",
+        "Gunung Para",
+        "KEBUN GUNUNG PARA"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05",
+        "AFD06"
+       ]
+      },
+      {
+       "kode": "1KSA",
+       "nama": "Silau Dunia",
+       "alias": [
+        "1E27",
+        "1KSA",
+        "KEBUN SILAU DUNIA",
+        "Silau Dunia"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05",
+        "AFD06",
+        "AFD07"
+       ]
+      }
+     ]
+    },
+    {
+     "kode": "1GS2",
+     "nama": "1GS2",
+     "kebun": [
+      {
+       "kode": "1KBU",
+       "nama": "Batang Toru",
+       "alias": [
+        "1E34",
+        "1KBU",
+        "Batang Toru",
+        "KEBUN BATANG TORU"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05"
+       ]
+      },
+      {
+       "kode": "1KHG",
+       "nama": "Hapesong",
+       "alias": [
+        "1E33",
+        "1KHG",
+        "Hapesong",
+        "KEBUN HAPESONG"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05"
+       ]
+      },
+      {
+       "kode": "1KRB",
+       "nama": "Rambutan",
+       "alias": [
+        "1E32",
+        "1KRB",
+        "KEBUN RAMBUTAN",
+        "Rambutan"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03"
+       ]
+      },
+      {
+       "kode": "1KSG",
+       "nama": "Sarang Giting",
+       "alias": [
+        "1E30",
+        "1KSG",
+        "KEBUN SARANG GITING",
+        "Sarang Giting"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04"
+       ]
+      },
+      {
+       "kode": "1KSP",
+       "nama": "Sei Putih",
+       "alias": [
+        "1E29",
+        "1KSP",
+        "KEBUN SEI PUTIH",
+        "Sei Putih"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04"
+       ]
+      },
+      {
+       "kode": "1KTR",
+       "nama": "1KTR",
+       "alias": [
+        "1E31",
+        "1KTR"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03"
+       ]
+      }
+     ]
+    },
+    {
+     "kode": "1GSH",
+     "nama": "1GSH",
+     "kebun": [
+      {
+       "kode": "1KAM",
+       "nama": "Ambalutu",
+       "alias": [
+        "1E18",
+        "1KAM",
+        "Ambalutu",
+        "KEBUN AMBALUTU"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03"
+       ]
+      },
+      {
+       "kode": "1KDP",
+       "nama": "Sei Dadap",
+       "alias": [
+        "1E16",
+        "1KDP",
+        "KEBUN SEI DADAP",
+        "Sei Dadap"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05",
+        "AFD06"
+       ]
+      },
+      {
+       "kode": "1KHP",
+       "nama": "Huta Padang",
+       "alias": [
+        "1E20",
+        "1KHP",
+        "Huta Padang",
+        "KEBUN HUTA PADANG"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05",
+        "AFD06",
+        "AFD07"
+       ]
+      },
+      {
+       "kode": "1KPM",
+       "nama": "Pulau Mandi",
+       "alias": [
+        "1E17",
+        "1KPM",
+        "KEBUN PULAU MANDI",
+        "Pulau Mandi"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05"
+       ]
+      },
+      {
+       "kode": "1KSL",
+       "nama": "Sei Silau",
+       "alias": [
+        "1E19",
+        "1KSL",
+        "KEBUN SEI SILAU",
+        "Sei Silau"
+       ],
+       "afdeling": [
+        "AFD01",
+        "AFD02",
+        "AFD03",
+        "AFD04",
+        "AFD05",
+        "AFD06",
+        "AFD07"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
